@@ -1,0 +1,28 @@
+<!doctype HTML>
+  <html lang="en">
+    <head>
+      <meta charset+"utf-8">
+      <title>Stitch 101</title>
+      <meta name="description" content="This is a character profile page">
+    </head>
+    <body>
+      <nav>
+        <ul>
+          | <a href="./StitchHome">HOME</a> |
+          <a href="./StitchAbout">ABOUT</a> |
+          <a href="./StitchFavorites">FAVORITES</a> |
+        </ul>
+      </nav>
+      <img style="margin:0px auto;display:block" src="LandS-Font.jpg" width="200px">
+      <p> </p>
+      <audio src="Users/brunagomes/Documents/CSC435/characterPages/HeartbreakHotel.mp3"></audio>
+      <img style="margin:0px auto;display:block" src="stitchMain.jpg" width="300px">
+      <p> </p>
+      <blockquote align="center">Stitch, formerly known as Experiment 626, was created
+                  as a machine of destruction. After being sentenced to a lifetime in
+                  extraterrestrial prison, Stitch escapes prison and heads to Planet
+                  Earth. Stich poses as a dog, gets adopted by a girl named Lilo, and
+                  finds his new family. Stitch now lives with Lilo in Hawaii.
+      </blockquote>
+    </body>
+  </html>

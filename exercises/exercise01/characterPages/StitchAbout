@@ -1,0 +1,58 @@
+<!doctype HTML>
+  <html lang="en">
+    <head>
+    <meta charset+"utf-8">
+    <title>Stitch 101</title>
+    <meta name="description" content="This is a character profile about page">
+    </head>
+    <body>
+      <nav>
+        <ul>
+          | <a href="./StitchHome">HOME</a> |
+          <a href="./StitchAbout">ABOUT</a></li> |
+          <a href="./StitchFavorites">FAVORITES</a> |
+        </ul>
+      </nav>
+      <h1 align="center">ABOUT</h1>
+      <img style="margin:0px auto;display:block" src="S-Sketch-Background.jpg" width="300px">
+      <p> </p>
+      <div style="background-color:midnightblue;text-align:center">
+        <p align="center"><font color="white">Name</font></p>
+      </div>
+      <p align="center">Experiment 626 (experiment six-two-six)</p>
+      <div style="background-color:midnightblue;text-align:center">
+        <p align="center"><font color="white">Nickname</font></p>
+      </div>
+      <p align="center">Stitch</p>
+      <div style="background-color:midnightblue;text-align:center">
+          <p align="center"><font color="white">Species</font></p>
+      </div>
+      <p align="center">Extraterrestrial Genetic Experiment</p>
+      <div style="background-color:midnightblue;text-align:center">
+        <p align="center"><font color="white">Earth Species</font></p>
+      </div>
+      <p align="center">Dog</p>
+      <div style="background-color:midnightblue;text-align:center">
+        <p align="center"><font color="white">Gender</font></p>
+      </div>
+      <p align="center">Male</p>
+      <div style="background-color:midnightblue;text-align:center">
+          <p align="center"><font color="white">Creator</font></p>
+      </div>
+      <p align="center">Jumba Jookiba</p>
+      <div style="background-color:midnightblue;text-align:center">
+          <p align="center"><font color="white">Owner</font></p>
+      </div>
+      <p align="center">Lilo</p>
+      <div style="background-color:midnightblue;text-align:center">
+          <p align="center"><font color="white">Appearances</font></p>
+      </div>
+      <p align="center">Lilo & Stitch (movie)</p>
+      <img style="margin:0px auto;display:block" src="LandS.jpg" width="100px">
+      <p align="center">Lilo & Stitch 2: Stitch Has a Glitch (movie)</p>
+      <img style="margin:0px auto;display:block" src="LandS2.jpg" width="100px">
+      <p align="center">Lilo & Stitch: The Series (tv series)</p>
+      <img style="margin:0px auto;display:block" src="LandSTV.jpg" width="100px">
+
+    </body>
+  </html>

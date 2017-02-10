@@ -1,0 +1,98 @@
+body {
+  background-color: #CCCCCC;
+  margin: 0px;
+  padding: 0px;
+}
+
+.navigation {
+  background-color: white;
+  padding-top = 20px;
+  padding-bottom = 20px;
+}
+
+ul li {
+  text-decoration: none;
+  display: inline-block;
+  text-align: right;
+  color: #22180c;
+  padding: 15px 20px 15px 0px;
+}
+
+a{
+  text-decoration: none;
+}
+
+#lastNav {
+  padding-right: 15px;
+}
+
+#navPic {
+  height: 35px;
+  width: 70px;
+  float: left;
+  padding: 5px 0px 15px 20px;
+}
+
+#logoPic {
+  mix-blend-mode: multiply;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0px;
+}
+
+#title {
+  padding-top:10px;
+  font-size: 60px;
+}
+
+h1 {
+  font-size: 45px;
+  font-family: cursive;
+  color: #22180c;
+  text-align: center;
+  margin: 0px;
+  padding-bottom: 15px;
+}
+
+.content {
+  background-color: white;
+}
+
+img{
+  width: 350px;
+  height: 250px;
+  padding: 10px 20px 10px 20px;
+}
+
+#leftPic{
+  padding-left: 61px;
+}
+
+#description{
+  font-size: 20px;
+  font-family: Lucida Sans Unicode;
+  color: #22180c;
+  text-align: center;
+}
+
+h2 {
+  font-size: 37px;
+  font-family: cursive;
+  color: #22180c;
+  text-align: center;
+}
+
+.tableTitle{
+  font-size: 27px;
+  font-family: Lucida Sans Unicode;
+  color: #22180c;
+  text-align: center;
+}
+
+tr th{
+  font-size: 20px;
+  font-family: Lucida Sans Unicode;
+  color: #22180c;
+  text-align: center;
+}

@@ -1,0 +1,80 @@
+<!doctype HTML>
+  <html lang="en">
+    <head>
+      <meta charset+"utf-8">
+      <title>Stitch 101</title>
+      <meta name="description" content="This is a character profile favorites page">
+    </head>
+    <body>
+      <nav>
+        <ul>
+          | <a href="./StitchHome">HOME</a> |
+          <a href="./StitchAbout">ABOUT</a></li> |
+          <a href="./StitchFavorites">FAVORITES</a> |
+          <img style="margin:0px auto;display:block" src="LandS-Font.jpg" width="200px">
+        </ul>
+      </nav>
+      <p> </p>
+      <h1 align="center">FAVORITES</h1>
+      <img style="margin:0px auto;display:block" src="stitchElvis.jpg" width="150px">
+      <p> </p>
+      <style>
+        table, th, td {
+          border: 1px solid midnightblue;
+        }
+        th, td {
+            padding: 7px;
+          }
+      </style>
+      <table align="center">
+        <tr>
+          <th align="center">Category</th>
+          <th align="center"> Type</th>
+          <th align="center"> Reason</th>
+          <th align="center">Visual Representation</th>
+        </tr>
+        <tr>
+          <td align="center">Food</td>
+          <td align="center"> Cake</td>
+          <td align="center"> A slice of cake contains all of Stitch's essential food groups: sugar, sugar, and sugar.</td>
+          <td><img style="margin:0px auto;display:block" src="LandS-Cake.jpg" width="100px"></td>
+        </tr>
+        <tr>
+          <td align="center">Word</td>
+          <td align="center"> Ohana</td>
+          <td align="center">"Ohana means family. Family means nobody gets left behind or forgoten."</td>
+          <td><img style="margin:0px auto;display:block" src="LandS-Family.jpg" width="100px"></td>
+        </tr>
+        <tr>
+          <td align="center"> Book</td>
+          <td align="center"> The Ugly Duckling</td>
+          <td align="center">This book reflects how Stitch feels like an outcast, but eventually finds his family.</td>
+          <td><img style="margin:0px auto;display:block" src="LandS-Book.jpg" width="100px"></td>
+        </tr>
+        <tr>
+          <td align="center"> Singer</td>
+          <td align="center"> Elvis</td>
+          <td align="center">"Stuck on You", "Heartbreak Hotel", and "Hound Dog"</td>
+          <td><img style="margin:0px auto;display:block" src="LandS-Elvis.jpg" width="100px"></td>
+        </tr>
+        <tr>
+          <td align="center"> Outdoor Hobby</td>
+          <td align="center"> Surfing</td>
+          <td align="center">When living in Hawaii, surfing is as natural and necessary as breathing</td>
+          <td><img style="margin:0px auto;display:block" src="LandS-Surfing.jpg" width="100px"></td>
+        </tr>
+        <tr>
+          <td align="center"> Indoor Hobby</td>
+          <td align="center"> Hula Dancing</td>
+          <td align="center">The only time you can wear a grass skirt, and not be judged</td>
+          <td><img style="margin:0px auto;display:block" src="LandS-Hula.jpg" width="100px"></td>
+        </tr>
+        <tr>
+          <td align="center"> Guilty Pleasure</td>
+          <td align="center"> Destruction</td>
+          <td align="center">Stich was built for destruction, so it is in his blood</td>
+          <td><img style="margin:0px auto;display:block" src="LandS-Destroy.jpg" width="100px"></td>
+        </tr>
+      </table>
+    </body>
+  </html>
