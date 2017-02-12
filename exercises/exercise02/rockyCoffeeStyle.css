@@ -1,0 +1,156 @@
+body {
+  background-color: #CCCCCC;
+  margin: 0px;
+  padding: 0px;
+}
+
+.navigation {
+  background-color: white;
+  margin-top: 0px;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.listContent{
+
+  display: block;
+  list-style-type:none;
+  text-decoration: none;
+  color: #22180c;
+}
+
+ul li {
+  text-decoration: none;
+  display: inline-block;
+  text-align: right;
+  color: #22180c;
+  padding: 15px 20px 15px 0px;
+}
+
+a{
+  text-decoration: none;
+}
+
+#firstNav {
+  margin-left: 15px;
+}
+
+#navPic {
+  height: 35px;
+  width: 70px;
+  float: left;
+  padding: 5px 0px 15px 20px;
+}
+
+#logoPic {
+  mix-blend-mode: multiply;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0px;
+}
+
+#titleList {
+  margin-top: 0px;
+  font-size: 25px;
+}
+
+#title {
+  font-size: 60px;
+  padding-bottom: 20px;
+  padding-top:15px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: cursive;
+  color: #22180c;
+  text-align: center;
+  margin: 0px;
+}
+
+.content {
+  background-color: white;
+  box-shadow: 0 -4px 8px 0 rgba(0, 0, 0, 0.2), 0 -6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img{
+  width: 350px;
+  height: 250px;
+  padding: 20px 20px 10px 20px;
+}
+
+p {
+  font-size: 17px;
+  font-family: Lucida Sans Unicode;
+  color: #22180c;
+  text-align: center;
+}
+
+#bottomParagraph
+{
+  padding-bottom: 15px;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: cursive;
+  color: #22180c;
+  text-align: center;
+  margin: 0px;
+}
+
+.info{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.menu{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.infoAccessory{
+  width: 33%;
+  height: auto;
+  display: block;
+  color: #22180c;
+  text-align: center;
+}
+
+.menu > .infoAccessory{
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: maroon;
+  background: #FEFCFA;
+}
+
+.infoAccessory > p{
+  text-align: center;
+  color: #22180c;
+}
+
+.infoAccessory > img{
+  padding: 20px 20px 20px 20px;
+}
+
+.infoAccessory:hover .menuPic{
+  opacity: 0.3;
+}
+
+.menuPic{
+  opacity: 1;
+  display: block;
+  width: 350px;
+  height: 250px;
+  padding: 20px 20px 10px 20px;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+::selection{
+  background: #DAF7A6;
+}
