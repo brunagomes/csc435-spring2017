@@ -1,0 +1,144 @@
+body {
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+.navigation {
+  background-color: #9ad3de;
+  margin-top: 0px;
+}
+
+/*.hamburger > div {
+  width: 35px;
+  height: 5px;
+  background-color: #3b3a36;
+  margin: 6px;
+}*/
+
+/* Dropdown Button
+.navButton {
+  background-color: #9ad3de;
+  padding: 16px;
+  border: none;
+  cursor: pointer;
+}*/
+
+/* The container <div> - needed to position the dropdown content
+.hamburgerButton {
+  position: relative;
+  display: inline-block;
+  background-color: #9ad3de;
+  border: none;
+  cursor: pointer;
+}*/
+
+/* Dropdown Content (Hidden by Default)
+.menu {
+  display: none;
+  position: absolute;
+  background-color: #f6f1ed;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}*/
+
+/* Links inside the dropdown
+.menu a {
+  color: #3b3a36;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }*/
+
+/*ul li {
+  text-decoration: none;
+  display: block;
+}*/
+
+/* Change color of dropdown links on hover
+.menu a:hover {
+  background-color: #f6f1ed
+}*/
+
+/* Show the dropdown menu on hover
+.hamburgerButton:hover .menu {
+    display: block;
+}*/
+
+/* Change the background color of the dropdown button when the dropdown content is shown
+.hamburgerButton:hover .navButton {
+    background-color: #383838;
+}*/
+
+.navigation > h1{
+  margin-top: 0px;
+  font-size: 42pt;
+}
+
+h1, h2, h3, p {
+  color: #383838;
+  font-family: 'Roboto', sans-serif;
+  padding-left: 20px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+h2, h3, p {
+  margin-top: 17px;
+  margin-bottom: 17px;
+}
+
+h1{
+  font-size: 35pt;
+  margin-top: 15px;
+}
+
+h2 {
+  font-size: 28pt;
+}
+
+h3 {
+  font-size: 20pt;
+}
+
+p{
+  font-size: 14pt;
+}
+
+form {
+  color: #383838;
+  font-family: 'Roboto', sans-serif;
+  padding-left: 20px;
+  padding-bottom: 15px;
+}
+
+button {
+  border-radius: 12px;
+  background-color: #9ad3de;
+  padding: 4px 10px 4px 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16pt;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: inherit;
+}
+
+.idForm {
+  width: 90%;
+  padding: 0px;
+  margin-right: auto;
+}
+
+.idPrint {
+  width: 90%;
+  padding: 0px;
+  margin-right: auto;
+}

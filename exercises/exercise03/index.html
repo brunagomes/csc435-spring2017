@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset+"utf-8">
+    <title>ID Creator</title>
+    <meta name="description" content="This is an ID creator">
+    <script src="./code.js"></script>
+    <link rel="stylesheet" href="./style.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  </head>
+  <body>
+    <div class="navigation">
+      <h1>ID Creator</h1>
+      <!--<div class="navButton">
+        <button class="hamburgerButton">
+          creates the "hamburger" button design by having three small divs stacked on top of one another within a square div
+          <div class="hamburger">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+          </div>
+          <div class="menu">
+            <nav>
+              <ul>
+                <li><a href="./index.html"> HOME </a></li>
+                <li><a href="./created.html"> IDs </a></li>
+              </ul>
+            </nav>
+          </div>
+        </button>
+      </div>-->
+    </div>
+    <div class="content">
+      <h1>Create an ID</h1>
+      <div class="howTos">
+        <h2>How to?</h2>
+        <h3>Create and submit an ID form</h3>
+        <p>Simply fill out the form bellow and click submit</p>
+        <h3>Check for ID Info</h3>
+        <p>After submitting the ID form, the ID information will be displayed on the right side of the form</p>
+      </div>
+      <div class="idForm">
+        <form>
+          Headshot:<br>
+          <p>***Please input a link for your picture***</p>
+          <input id="headshot" type="text"/><br>
+          First name:<br>
+          <input id="firstName" type="text"/><br>
+          Last name:<br>
+          <input id="lastName" type="text"><br>
+          Date of Birth:<br>
+          <input id="date"type="date"/><br>
+          Phone Number:<br>
+          <input id="phone" type="tel" pattern="[0-9]{10}"/><br>
+          Work/Student Email:<br>
+          <input id="email" type="email" placeholder="name@email.com"/><br>
+          ID Type:<br>
+          <select id="studentWorker">
+            <option value="student">Student ID</option>
+            <option value="worker">Worker ID</option>
+          </select><br>
+          Type of Worker/Student:<br>
+          <select id="timeType">
+            <option value="partTime">Part Time</option>
+            <option value="fullTime">Full Time</option>
+          </select>
+        </form>
+        <button onclick="submitClicked();">Submit</button>
+      </div>
+      <div id="idPrint">
+      </div>
+    </div>
+  </body>
+</html>
