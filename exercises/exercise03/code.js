@@ -53,14 +53,14 @@ var submitClicked = function(){
   var lastName = document.getElementById("lastName").value;
   //Grabs the selection inputs of the user for "studentWorker" and "timeType"
   var studentWorker = document.getElementById("studentWorker");
-  console.log(studentWorker);
+//  console.log(studentWorker);
 
   var timeType = document.getElementById("timeType");
   //Allows the user's selection to be displayed
   var studentWorkerEntry = studentWorker.options[studentWorker.selectedIndex].text;
   var timeTypeEntry = timeType.options[studentWorker.selectedIndex].text;
-  console.log(studentWorkerEntry);
-  console.log(timeTypeEntry);
+//  console.log(studentWorkerEntry);
+//  console.log(timeTypeEntry);
 
   var personInput = new person(headshot, firstName, lastName, studentWorkerEntry, timeTypeEntry);
   people.push(personInput);
