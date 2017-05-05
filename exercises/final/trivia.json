@@ -1,0 +1,254 @@
+{
+  "triviaQuestions": [
+    {
+ "question": "What magical creatures lead Merida to a witch in 'Brave'",
+ "choice": {
+    "A": "WISPS",
+    "B": "LIGHTS",
+    "C": "GHOSTS",
+    "D": "SPIRITS"
+ },
+ "answer": "A"
+    },
+    {
+ "question": "What fraternity does Mike Wazowski join in 'Monsters University'?",
+ "choice": {
+    "A": "ROAR OMEGA ROAR",
+    "B": "SIGMA SCARE OMEGA",
+    "C": "OOZMA KAPPA",
+    "D": "ROAR KAPPA SCREAM"
+ },
+ "answer": "C"
+    },
+    {
+ "question": "Before he became Syndrome, he wore rocket boots and called himself what?",
+ "choice": {
+    "A": "INCREDIBOY",
+    "B": "INCREDIKID",
+    "C": "ROCKET BOY",
+    "D": "WONDERBOY"
+ },
+ "answer": "A"
+    },
+    {
+ "question": "Who voiced Joy in 'Inside Out'?",
+ "choice": {
+    "A": "MINDY KAILING",
+    "B": "AMY POEHLER",
+    "C": "TINA FEY",
+    "D": "AMY SCHUMER"
+ },
+ "answer": "B"
+    },
+    {
+ "question": "Who's famous tag line in the movie Toy Story is 'To infinity, beyond!?",
+ "choice": {
+    "A": "WOODY",
+    "B": "BUZZ LIGHTYEAR",
+    "C": "REX",
+    "D": "MR POTATO HEAD"
+ },
+ "answer": "B"
+    },
+    {
+ "question": "What is the name of the boy who terrifies the toys in 'Toy Story?",
+ "choice": {
+    "A": "BILLY",
+    "B": "ANDY",
+    "C": "JAKE",
+    "D": "SID"
+ },
+ "answer": "D"
+    },
+    {
+ "question": "Who voiced Lightning McQueen in 'Cars'?",
+ "choice": {
+    "A": "ADRIEN BRODY",
+    "B": "JASON SCHWARTZMAN",
+    "C": "OWEN WILSON",
+    "D": "BEN STILLER"
+ },
+ "answer": "C"
+    },
+    {
+ "question": "Who voiced Lightning Mater, the tow truck, in 'Cars'?",
+ "choice": {
+    "A": "LARRY THE CABLE GUY",
+    "B": "JEFF FOXWORTHY",
+    "C": "TIM ALLEN",
+    "D": "ROBIN WILLIAMS"
+ },
+ "answer": "A"
+    },
+    {
+ "question": "In Toy Story 2 what does Al dress up as for his commercials?",
+ "choice": {
+    "A": "A PIG",
+    "B": "A TURKEY",
+    "C": "A CHICKEN",
+    "D": "A COW"
+ },
+ "answer": "C"
+    },
+    {
+ "question": "Which 'Up' character says 'I do not like the cone of shame'?",
+ "choice": {
+    "A": "DUG",
+    "B": "CARL",
+    "C": "RUSSEL",
+    "D": "BOB"
+ },
+ "answer": "A"
+    },
+    {
+ "question": "What does Boo call Sulley in 'Monsters, Inc.'?",
+ "choice": {
+    "A": "FUZZY",
+    "B": "KITTY",
+    "C": "DOGGY",
+    "D": "FLUFFY"
+ },
+ "answer": "B"
+    },
+    {
+ "question": "What's the name the sea turtle that helps out Marlin and Dory in 'Finding Nemo.'?",
+ "choice": {
+    "A": "PRIMO",
+    "B": "CRUSH",
+    "C": "BRO",
+    "D": "CRUNCH"
+ },
+ "answer": "B"
+    },
+    {
+ "question": "What's the name of Pixar short in which an old man plays his own alter ego at Chess?",
+ "choice": {
+    "A": "CHESS CHAMPION",
+    "B": "THE GRAND MASTER",
+    "C": "GERI'S GAME",
+    "D": "CHECK MATE"
+ },
+ "answer": "C"
+    },
+    {
+ "question": "In Mulan, what kind of bird does Shan Yu have?",
+ "choice": {
+    "A": "A PARROT",
+    "B": "AN EAGLE",
+    "C": "A RAVEN",
+    "D": "A FALCON"
+ },
+ "answer": "D"
+    },
+    {
+ "question": "In Aladdin, what is the name of Jasmine’s pet tiger?",
+ "choice": {
+    "A": "ABU",
+    "B": "RAZOUL",
+    "C": "IAGO",
+    "D": "RAJAH"
+ },
+ "answer": "D"
+    },
+    {
+ "question": "In Peter Pan, Captain Hook had a hook on which one of his hands?",
+ "choice": {
+    "A": "HIS LEFT",
+    "B": "HIS RIGHT",
+    "C": "BOTH",
+    "D": "NEITHER"
+ },
+ "answer": "A"
+    },
+    {
+ "question": "What kind of animal does 'Princess Jasmine' have for a pet?",
+ "choice": {
+   "A": "PARROT",
+   "B": "TIGER",
+   "C": "MONKEY",
+   "D": "SHARK"
+ },
+ "answer": "B"
+    },
+    {
+ "question": "What kind of animal does 'Aladdin' have for a pet?",
+ "choice": {
+    "A": "PARROT",
+    "B": "TIGER",
+    "C": "MONKEY",
+    "D": "SHARK"
+ },
+ "answer": "C"
+    },
+    {
+ "question": "'Finding Dory' begins in the Australian Great Barrier Reef, but the story soon takes Dory, Nemo, and Marlin on a journey to where?",
+ "choice": {
+    "A": "FLORIDA",
+    "B": "HAWAII",
+    "C": "NEW JERSEY",
+    "D": "CALIFORNIA"
+ },
+ "answer": "D"
+    },
+    {
+ "question": "What's the name of the French bank thief seen in 'The Incredibles'?",
+ "choice": {
+    "A": "ALL MIME",
+    "B": "BOMB VOYAGE",
+    "C": "SILENCIEUX",
+    "D": "BOMB MINE"
+ },
+ "answer": "B"
+    },
+    {
+ "question": "Who does Andy give his toys to at the end of 'Toy Story 3'?",
+ "choice": {
+    "A": "EMILY",
+    "B": "BONNIE",
+    "C": "HIS MOM",
+    "D": "MOLLY"
+ },
+ "answer": "B"
+    },
+    {
+ "question": "What was Nemo's mom's name?",
+ "choice": {
+    "A": "DAWN",
+    "B": "DORY",
+    "C": "LUNA",
+    "D": "CORAL"
+ },
+ "answer": "D"
+    },
+    {
+ "question": "In the Disney movie 'The Lion King,' what is the name of Simba's uncle?",
+ "choice": {
+    "A": "TIMONE",
+    "B": "NALA",
+    "C": "SCAR",
+    "D": "MUFASA"
+ },
+ "answer": "C"
+    },
+    {
+ "question": "In The Jungle Book who teaches Mowgli about The Bare Necesseties of life?",
+ "choice": {
+    "A": "SHERE KHAN",
+    "B": "BAGHEERA",
+    "C": "REX",
+    "D": "BALOO"
+ },
+ "answer": "D"
+    },
+    {
+ "question": "What does Cinderella's fairy godmother turn into a carriage?",
+ "choice": {
+    "A": "A PUMPKIN",
+    "B": "A TOMATO",
+    "C": "AN ONION",
+    "D": "A CARROT"
+ },
+ "answer": "A"
+    }
+  ]
+}

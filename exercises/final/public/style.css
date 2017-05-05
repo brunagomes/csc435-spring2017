@@ -1,0 +1,29 @@
+body{
+  font-family: 'Taviraj', serif;
+  color: #457E8E;
+  background-image: url("topography.png");
+  display:table-cell;
+  text-align:center;
+  vertical-align:middle;
+}
+
+h1{
+  font-family: 'Baloo';
+  font-size: 46px;
+  color: #2B4162;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+#questionDiv{
+  color: #2B4162;
+}
+
+#canvasDiv{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#logInDiv > h1{
+  margin-left: 40px;
+}

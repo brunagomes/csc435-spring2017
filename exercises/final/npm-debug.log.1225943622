@@ -1,0 +1,19 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'init' ]
+2 info using npm@3.10.10
+3 info using node@v6.10.2
+4 verbose stack Error: write EIO
+4 verbose stack     at exports._errnoException (util.js:1018:11)
+4 verbose stack     at WriteWrap.afterWrite (net.js:804:14)
+5 verbose cwd /Users/brunagomes/final
+6 error Darwin 14.5.0
+7 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "init"
+8 error node v6.10.2
+9 error npm  v3.10.10
+10 error code EIO
+11 error errno EIO
+12 error syscall write
+13 error write EIO
+14 error If you need help, you may report this error at:
+14 error     <https://github.com/npm/npm/issues>
+15 verbose exit [ 1, true ]

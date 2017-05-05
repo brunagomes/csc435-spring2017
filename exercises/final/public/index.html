@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Disney Trivia</title>
+    <link href="https://fonts.googleapis.com/css?family=Baloo|Taviraj" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script language="javascript" type="text/javascript" src="libraries/p5.js"></script>
+    <script language="javascript" src="libraries/p5.dom.js"></script>
+    <script language="javascript" src="libraries/p5.sound.js"></script>
+    <script language="javascript" type="text/javascript" src="sketch.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="./socket.io/socket.io.js"></script>
+    <script src="/main.js"></script>
+  </head>
+  <body>
+    <div id="logInDiv">
+      <h1>Create an Id</h1>
+      <form id="userIdForm" action="">
+        <input id="userIdInput" autocomplete="off" /><button>Send</button>
+      </form>
+    </div>
+    <div id='canvasDiv'>
+    </div>
+    <div id="gameDiv" hidden>
+      <h1>Disney Trivia</h1>
+      <h3>Enter your A, B, C, or D answer!</h3>
+      <p>Once the other player has guessed, you will find out if you won!</p>
+      <div id='questionDiv' hidden>
+      </div>
+      <div id='choiceDiv' hidden>
+      </div>
+      <form id="guessForm" action="">
+        <input id="guessInput" autocomplete="off" /><button>Send</button>
+      </form>
+      <div id='waitingDiv' hidden>
+        <p>Waiting for guesses</p>
+      </div>
+      <div id='resultsDiv' hidden>
+      </div>
+      <div id='buttonContainer' hidden>
+        <input id="playButton" type="button" value="Play Again!"/>
+      </div>
+    </div>
+  </body>
+</html>
